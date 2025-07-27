@@ -44,14 +44,9 @@ div.box{
     background-color:aliceblue;
     padding:15px;
     }
-div.topdiv{
+div.sonya{
     background-color: aliceblue;
     padding:5px;
     margin-bottom:5px;
     display:flow-root;
-
 }
-/* div.bottomdiv{
-    background-color: aliceblue;
-    padding:5px;
-} */
