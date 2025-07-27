@@ -1,0 +1,57 @@
+h1{
+    font-family:"DM Sans"
+}
+h3{
+    font-family:Archivo
+}
+h4{
+    font-family:Archivo
+}
+p{
+    font-family:Nunito
+}
+ul{
+    font-family:Nunito
+}
+#home{
+    float: left;
+    margin-right: 10px
+}
+div{
+    background-color: rgb(188, 218, 228);
+}
+body{
+    background-color:aliceblue
+}
+header{
+    background-color: rgb(188, 218, 228);
+    position: sticky;
+    top: 0;
+}
+div.hscroll{
+    overflow-x:auto;
+    background-color: aliceblue;
+    width:100%;
+
+}
+div.container{
+    display:flex;
+    flex-wrap: nowrap;
+    gap:20px;
+}
+div.box{
+    width: 300px;
+    background-color:aliceblue;
+    padding:15px;
+    }
+div.topdiv{
+    background-color: aliceblue;
+    padding:5px;
+    margin-bottom:5px;
+    display:flow-root;
+
+}
+/* div.bottomdiv{
+    background-color: aliceblue;
+    padding:5px;
+} */
