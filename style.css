@@ -1,52 +1,79 @@
-h1{
-    font-family:"DM Sans"
+h1 {
+    font-family: "DM Sans"
 }
-h3{
-    font-family:Archivo
+
+h2 {
+    font-family: Archivo
 }
-h4{
-    font-family:Archivo
+
+h3 {
+    font-family: Archivo
 }
-p{
-    font-family:Nunito
+
+h4 {
+    font-family: Archivo
 }
-ul{
-    font-family:Nunito
+
+p {
+    font-family: Nunito
 }
-#home{
+
+ul {
+    font-family: Nunito
+}
+
+#home {
     float: left;
     margin-right: 10px
 }
-div{
+
+div {
     background-color: rgb(188, 218, 228);
 }
-body{
-    background-color:aliceblue
+
+body {
+    background-color: aliceblue
 }
-header{
+
+header {
     background-color: rgb(188, 218, 228);
     position: sticky;
     top: 0;
 }
-div.hscroll{
-    overflow-x:auto;
+
+div.hscroll {
+    overflow-x: auto;
     background-color: aliceblue;
-    width:100%;
+    width: 100%;
 
 }
-div.container{
-    display:flex;
+
+div.container {
+    display: flex;
     flex-wrap: nowrap;
-    gap:20px;
+    gap: 20px;
 }
-div.box{
+
+div.box {
     width: 300px;
-    background-color:aliceblue;
-    padding:15px;
-    }
-div.sonya{
     background-color: aliceblue;
-    padding:5px;
-    margin-bottom:5px;
-    display:flow-root;
+    padding: 15px;
+}
+
+div.sonya {
+    background-color: aliceblue;
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flow-root;
+}
+
+#ramp {
+    float: left;
+    margin-right: 10px
+}
+#mcqueenramp{
+    background-color: aliceblue;
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flow-root;
 }
